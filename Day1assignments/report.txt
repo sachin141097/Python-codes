@@ -1,0 +1,30 @@
+I have done the assignments related to this topics and attached all implemented python programs with the report.
+
+#Topics learnt
+---Operators
+	1. Arithmetic Operators
+	2. Comparison (Relational) Operators
+	3. Assignment Operators
+	4. Logical Operators
+	5. Bitwise Operators
+	6. Membership Operators
+	7. Identity Operators
+
+
+---Control Structures
+	1.if-else	
+	2.if-elif-else
+	3.while loop
+	4.for loop
+	5.for-else loop
+	6.nested loop
+
+	(1)continue statement
+	(2)break statement
+	(3)pass statement
+
+---various Data Structures available in python
+	1.lists
+	2.tupels
+	3.dictionaries
+	4.sets

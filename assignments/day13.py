@@ -24,11 +24,6 @@ elif avg>=50 and avg<=59:
 	print("Grade E")
 	print("Average:",avg)
 
-elif avg>=40 and avg<=49:
-	print("Grade F")
-	print("Average:",avg)
-
-elif avg>=30 and avg<=39:
-	print("Grade G")
-	print("Average:",avg)
+else:
+	print("Fail")
 

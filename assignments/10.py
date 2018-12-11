@@ -12,9 +12,9 @@ print("Maths and chemistry :",CM)
 print("Physics and maths :",MP)
 print("All subjects :",PCM)
 
-M = maths - MP - CM
-P = physics - MP - PC
-C = chemistry - CM - PC
+M = maths - MP - CM-PCM
+P = physics - MP - PC-PCM
+C = chemistry - CM - PC-PCM
 
 print("Only Maths : ",M)
 print("Only Physics : ",P)
